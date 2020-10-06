@@ -1,6 +1,6 @@
 Projeto base para editor de código estilo codepen.io feito para o [maykbrito](https://github.com/maykbrito)
 
-Site: [wzuqui.github.io/plunk-monaco-editor/](wzuqui.github.io/plunk-monaco-editor/)
+Site: [wzuqui.github.io/plunk-monaco-editor/](https://wzuqui.github.io/plunk-monaco-editor/)
 
 ## 🔄 Executar
  - Fazer clone do repositório.
