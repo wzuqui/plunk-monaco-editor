@@ -7,3 +7,12 @@ html, body {
 body {
   background-color: #1e1e1e;
 }
+
+html, body, #root {
+  height: 100%;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
