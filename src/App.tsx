@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   function handleEditorDidMount() {
-    emmetHTML((window as any)['monaco']);
+    emmetHTML();
   }
 
 
